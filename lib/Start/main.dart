@@ -76,6 +76,8 @@ void main() {
             ),
       ),
       themeMode: ThemeMode.light,
+      //themeMode: ThemeMode.dark,
+      //themeMode: ThemeMode.system
       home: const Expenses(),
     ),
   );
